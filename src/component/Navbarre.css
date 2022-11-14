@@ -1,0 +1,36 @@
+body
+{
+  font-family: 'Roboto Slab', serif;
+
+}
+.marge
+{
+    margin-left: 100px;
+    color: #fff;
+}
+.jointus
+{
+    margin-left: 200px;
+    width: 100px;
+}
+.bouton11
+{
+    margin-left: 100px;
+    width: 200px;
+    height: 40px;
+}
+.bouton12
+{
+    margin-left: 200px;
+}
+.farr
+{
+    position: relative;
+    left: 140px;
+    bottom: 20px;
+}
+.barrenav
+{
+    color: #fff;
+    background-color: blue;
+}

@@ -1,0 +1,37 @@
+.images
+{
+    height: 150px;
+    width: 150px;
+}
+.marge
+{
+    margin-top: 100px;
+}
+.fastart
+{
+    display:inline-block ;
+    margin: 2px;
+    color: orange;
+}
+.fastarte
+{
+    display:inline-block ;
+    margin: px;
+    color:  orange;
+}
+.cole
+{
+    position: relative;
+    right: 50px;
+}
+.pa
+{
+    position: relative;
+    left: 50px;
+}
+.pas
+{
+    position: relative;
+    left: 60px;
+    bottom:10px;
+}

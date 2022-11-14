@@ -1,0 +1,89 @@
+.div1
+{
+    border:2px solid rgba(255, 89, 0, 0.301);;
+    width: 50px;
+    height: 70px;
+    margin-top: 30px;
+    border-radius: 15px;
+    margin-left: 20px;
+    background-color:rgba(255, 89, 0, 0.301);
+}
+.div2
+{
+    border:2px solid rgba(0, 128, 126, 0.484);
+    width: 50px;
+    height: 70px;
+    margin-top: 30px;
+    border-radius: 15px;
+    margin-left: 20px;
+    background-color:rgba(0, 128, 126, 0.484);
+}
+.div3
+{
+    border:2px solid #fff ;
+    width: 50px;
+    height: 70px;
+    margin-top: 30px;
+    border-radius: 15px;
+    margin-left: 20px;
+    background-color:#00BFFF;
+}
+.fameh
+{
+    margin-top: 20px;
+}
+.cole1
+{
+    margin-top: 150px;
+    color: black;
+    margin-left: 20px;
+}
+.cole2
+{
+    margin-top: 150px;
+     margin-left: 20px; 
+     position: relative;
+}
+.cole3
+{
+    margin-top: 150px;
+    margin-left: 20px;
+    
+}
+.ligne
+{
+    border-top: 2px solid red;
+    width: 50px;
+}
+.cartes
+{
+    background-color: #00BFFF;
+    color: #fff;
+}
+.lignee
+{
+    border-top: 2px solid #fff;
+    width: 50px;
+}
+.blog_header1
+{
+    height: 70rem;
+}
+@media screen and (max-width:1024px) {
+    .cole1
+{
+    margin-top: 150px;
+    color: black;
+    
+}
+    .cole2
+{
+    margin-bottom:10px ;
+}
+.cole3
+{
+    margin-top: 20px;
+    
+    
+}
+}

@@ -1,0 +1,193 @@
+.heart
+{
+    color: black;
+    margin-top: 10px;
+}
+.heart1
+{
+    position: relative;
+    border: 2px solid black;
+    width: 40px;
+    height: 40px;
+    left: 60px;
+    bottom: 80px;
+    border-radius: 50%;
+    background-color: #fff;
+    border-color: #fff;
+
+}
+.eye1
+{
+    position: relative;
+    border: 2px solid black;
+    width: 40px;
+    height: 40px;
+    left: 160px;
+    bottom: 120px;
+    border-radius: 50%;
+    background-color: #fff;
+    border-color: #fff;
+}
+.eye,.cart
+{
+    margin-top: 10px;
+}
+.cart1
+{
+    position: relative;
+    border: 2px solid black;
+    width: 40px;
+    height: 40px;
+    left: 110px;
+    bottom: 160px;
+    border-radius: 50%;
+    background-color: #fff;
+    border-color: #fff;
+
+}
+.h4
+{
+    position: relative;
+    bottom: 100px;
+    color: rgba(0, 183, 255, 0.607);
+}
+.etoile
+{
+    height: 25px;
+    width: 60px;
+    border: 2px solid black;
+    position: relative;
+    left: 150px;
+    bottom: 130px;
+    border-radius: 50px;
+    background-color: #191970;
+}
+.star
+{
+    color:#FFD700;
+}
+.para
+{
+    position: relative;
+    left: 30px;
+    bottom: 17px;
+}
+.para1
+{
+    position: relative;
+    left: 60px;
+    bottom: 120px;
+}
+.para11
+{
+    position: relative;
+    bottom: 88px;
+}
+.ico
+{
+    position: relative;
+    left: 15px;
+    bottom: 90px;
+}
+.paraclock
+{
+    position: relative;
+    left:35px;
+    bottom: 125px;
+}
+.faclock
+{
+    color: rgb(0, 183, 255);
+    position: relative;
+    bottom: 100px;
+}
+.fachartbar
+{
+    position: relative;
+    left: 80px;
+    bottom: 164px;
+    color: red;
+}
+.graphic
+{
+    position: relative;
+    bottom: 80px;
+}
+.parafocus
+{
+    position: relative;
+    bottom: 80px;
+}
+.aioutline
+{
+    position: relative;
+    bottom: 70px;
+}
+.paraclock1
+{
+    position: relative;
+    left:210px;
+    bottom: 250px;
+}
+.faclock1
+{
+    color: rgb(0, 183, 255);
+    position: relative;
+    bottom: 230px;
+    left: 180px;
+}
+.fach
+{
+    position: relative;
+    left: 115px;
+    bottom: 190px;
+}
+.bouton
+{
+    border: 2px solid rgb(0, 149, 255);
+    border-radius: 50px;
+    height: 45px;
+    width: 150px;
+    position: relative;
+    bottom: 200px;
+    left: -10px;
+}
+.fachevron
+{
+    position: relative;
+    left: 110px;
+    bottom: 30px;
+    color: rgb(0, 149, 255);
+}
+.parabouton
+{
+    position: relative;
+    left: -25px;
+    top: 5px;
+    color: rgb(0, 149, 255);
+
+}
+.divpara
+{
+    position: relative;
+    border: 2px solid red;
+    width: 50px;
+    height: 30px;
+    bottom: 170px;
+    left: 20px;
+    border-radius: 5px;
+    color: #fff;
+    background-color: red;
+}
+.bouton :hover
+{
+    background-color: rgb(0, 149, 255);
+}
+.images4
+{
+    width: 270px;
+}
+.blog_Advice
+{
+    margin-top: 200px;
+}
